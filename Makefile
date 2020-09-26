@@ -19,7 +19,7 @@ LICENSE_PERMS=			dist-mirror no-dist-sell pkg-mirror no-pkg-sell no-auto-accept
 ONLY_FOR_ARCHS=			amd64 i386
 ONLY_FOR_ARCHS_REASON=	Upstream only supports amd64 and i386
 
-USES=					linux:c7 desktop-file-utils shared-mime-info shebangfix
+USES=					linux desktop-file-utils shared-mime-info shebangfix
 USE_LINUX=				base:run xorglibs:run qt-x11:run devtools:build
 
 DISTREVISION=			25063
