@@ -9,7 +9,7 @@ PKGNAMEPREFIX=			linux-
 EXTRACT_SUFX=			.rpm
 
 MAINTAINER=				matias@pizarro.net
-COMMENT=				Compare, sync, and merge files and folders
+COMMENT=				Compare, sync, and merge files and folders (X11)
 
 LICENSE=				SCOOTERSOFTWARE
 LICENSE_NAME=			Scooter Software License
