@@ -2,10 +2,10 @@
 
 PORTNAME=				bcompare
 DISTVERSION=			4.3.6
+DISTVERSIONSUFFIX=		.25063
 CATEGORIES=				editors devel linux
 MASTER_SITES=			http://scootersoftware.com/
 PKGNAMEPREFIX=			linux-
-DISTNAME=				${PORTNAME}-${DISTVERSION}.${DISTREVISION}
 EXTRACT_SUFX=			.rpm
 
 MAINTAINER=				matias@pizarro.net
@@ -22,7 +22,6 @@ ONLY_FOR_ARCHS_REASON=	Upstream only supports amd64 and i386
 USES=					linux desktop-file-utils shared-mime-info shebangfix
 USE_LINUX=				base:run xorglibs:run qt-x11:run devtools:build
 
-DISTREVISION=			25063
 DISTNAME_amd64=			${DISTNAME}.x86_64
 DISTNAME_i386=			${DISTNAME}.i386
 
