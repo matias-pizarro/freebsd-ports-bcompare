@@ -2,7 +2,7 @@
 
 PORTNAME=				bcompare
 DISTVERSION=			4.3.6
-CATEGORIES=				editors linux
+CATEGORIES=				editors devel linux
 MASTER_SITES=			http://scootersoftware.com/
 PKGNAMEPREFIX=			linux-
 DISTNAME=				${PORTNAME}-${DISTVERSION}.${DISTREVISION}
