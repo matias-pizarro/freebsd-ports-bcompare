@@ -1,8 +1,8 @@
 # $FreeBSD$
 
 PORTNAME=				bcompare
-DISTVERSION=			4.3.6
-DISTVERSIONSUFFIX=		.25063
+DISTVERSION=			4.3.7
+DISTVERSIONSUFFIX=		.25118
 CATEGORIES=				editors devel linux
 MASTER_SITES=			http://scootersoftware.com/
 PKGNAMEPREFIX=			linux-
